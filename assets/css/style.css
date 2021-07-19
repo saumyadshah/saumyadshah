@@ -595,11 +595,16 @@ img {
 }
 
 /* footer */
+
+footer{
+  padding-bottom: 0;
+}
+
 .footer {
   background: var(--first-color-darker);
   color: var(--first-color-lighter);
   text-align: center;
-  padding-bottom: 0;
+  
 }
 
 .footer__title {
